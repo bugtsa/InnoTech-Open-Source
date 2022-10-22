@@ -12,6 +12,7 @@
 | AcronymBot   | Телеграмм бот для поиска слов сокращений из банковского производственного процесса        | [Code](https://github.com/Tieru/AcronymsBot) | [Persona](https://t.me/SlavikVoronov) | [Start](https://t.me/BankAcronymBot) |
 | EnglishRandomCoffeeBot | Телеграмм бот для поиска коллеги, изучающего английский | [Code](https://github.com/wakedeer/InnotechRandomCoffee/tree/innotech-english-club) |	[Persona](https://t.me/AlekseiMironov)|	[Start](https://t.me/InnotechEnglishRandomCoffeeBot)|
 | RandomCoffeeBot | Телеграмм бот для поиска коллеги-собеседника за чащечкой кофе | основа взята из бота EnglishRandomCoffeeBot | | [Start](https://t.me/InnotechRandomCoffeeBot) |
+| helm-secrets | Плагин для работы с секретами helm |[Code](https://github.com/JackKrasn/helm-secrets) | [Persona](https://github.com/JackKrasn)| |
 
 
 
